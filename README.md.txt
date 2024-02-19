@@ -1,1 +1,0 @@
-This is a readMe file for a Redis Demo
